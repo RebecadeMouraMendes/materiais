@@ -1,0 +1,13 @@
+https://getcomposer.org/download/
+
+https://dev.to/skino2020/manjaro-laravel-dev-setup-2p3k
+
+https://idroot.us/install-composer-manjaro/
+
+https://tailwindcss.com/
+
+https://inertiajs.com/
+
+https://vuejs.org/
+
+https://laravel.com/docs/11.x
