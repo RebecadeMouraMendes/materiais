@@ -1,0 +1,174 @@
+Gerenciamento de Requisitos para Qualidade de Software: 
+ - Priorizar projeto
+ - Rastrear Requisitos
+ - Avaliar Mudanças
+ - Aprovar Requisitos
+ - Versionamento
+
+
+Testes não funcionais
+ - Experiência do Cliente
+ - Usabilidade 
+ - Performace
+
+Testes Funcionais 
+ - Unidade
+ - Sistema
+
+Teste de API
+ - Postman
+ - SoapUI
+
+Testes Exploratórios
+ - XMind : mapa mental
+ - SBTM: Técnica para gerenciar
+
+
+
+Características Explícitas
+Aquilo que dá base para a qualidade ser medida
+
+CI/CD - Compilação
+Gitlab ci/cd: Integração continua
+*Jenkins: entrega continua*
+
+Testes de BD
+SQL
+MySQL Workbech
+
+ISO 9126
+* Funcionalidade
+* Confiabilidade
+* Eficiência
+* Usabilidade
+* Manutenível *
+* Portabilidade
+
+
+Iso 9126
+- Funcionalidade
+- Confiabilidade
+- Eficiencia
+- Manutenção
+- Portabilidade
+- Usabilidade
+
+
+Iso 9126
+- Funcionalidade
+- Confiabilidade
+- Eficiencia
+- Manutenção
+- Portabilidade
+- Usabilidade
+
+SQA (Garantia da Qualidade de Software)
+- *Métodos Tecnicos*
+- Revisão tecnica formal
+- *Controle de mudanças*
+- Testes de qualidade
+- Procedimento
+- *Mecanismos de Medição*
+
+
+Caracteristicas implicitas
+Correto
+Confiavel
+Eficiente
+Fácil de Usar
+Flexibilidade: Leigo ao especialista
+Portabilidade: Responsividade
+*Interoperável*: Uso com outros produtos
+*Manutenível*
+*Reutilizavel*
+
+Pressman: Qualidade de Software
+Comformidade com os requisitos funcionais
+*Caracteristicas implicitas*
+Regulamentações e Normas
+
+Iso 9000: Definição de qualidade
+O grau em que as caracteristicas de um processo/produto cumprem os requisitos estabelecidos
+
+Qualidade Total
+- Tecnica de administação
+- Conjunto de programas, ferramentas, metodos
+Para um menor custo, melhor qualidade e eficiencia
+
+
+Frederick Taylor (um dos mais importantes)
+Administração cientifica
+- Produtividade
+- Organização
+
+Walter Shewhart
+Controle estatistico de processos
+
+Peter Drucker
+Administração por Objetivos
+
+
+Iso/Iec 12 207
+Tarefas
+Procedimentos
+Atividades
+
+Iso/Iec 15 504
+*Avaliação e melhoria do processo*
+
+CMM1
+De acordo com as regulamentações, requisitos e cliente
+
+Planejamento de Testes
+- Riscos
+- Escopo
+- Tamanho
+- Esforço
+- Cronograma
+- Recursos
+- Indicadores
+- Relatório final
+
+Testes de Desempenho
+JMeter
+*Gatling*
+
+Automação de testes
+- Selenium
+- Cypress
+- Appium
+
+Gestão de Testes
+Jira
+*TestRail*
+
+Qualidade Total - Caracteristicas
+- Cliente deve ser atendido
+- Qualidade em primeiro lugar
+- eficiencia
+- segurança
+- Manutenção
+- Ação por prioridades
+- Ação por dados/fatos
+- Ação de bloqueio: Não persistir no erro
+- *Comprometimento*
+- *Padronização de tarefas*
+
+
+Qualidade Total: História
+Final da 2 guerra mundial, o Japão não tinha credibilidade em seus produtos e enfrentava uma crise econômica.
+Logo, foi criado técnicas para uma maior qualidade os Círculos de Controle da Qualidade foram criados.
+
+Círculos de Controle de Qualidade
+- Um pequeno grupo de funcionarios com a mesma filosofia, mesmo treinamento e mesmo objetivos
+Pra um melhor desempenho, resultados, redução de custos e aumentar a eficiência 
+
+Objetivos de Circulos de Controle de Qualidade
+Auto-Realização dos funcionarios
+Melhor segurança
+Manutenção
+Novas ideias
+Prevenção de falhas
+Qualidade
+Redução de custos e perdas
+Relacionamento na empresa
